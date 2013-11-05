@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1383559477 source:c:\users\tietokone\documents\aleks\test\sally.cpp
+	<iostream>
+	"Sally.h"
+
+1383559361 c:\users\tietokone\documents\aleks\test\sally.h
+
+1383571069 source:c:\users\tietokone\documents\aleks\test\main.cpp
+	<iostream>
+	<string>
+
+1383557446 source:c:\users\tietokone\documents\aleks\test\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1383557321 c:\users\tietokone\documents\aleks\test\birthday.h
+
+1383557789 c:\users\tietokone\documents\aleks\test\people.h
+	<string>
+
+1383557803 source:c:\users\tietokone\documents\aleks\test\people.cpp
+	"Birthday.h"
+	"People.h"
+	<iostream>
+
+1383558947 source:c:\users\tietokone\documents\aleks\test\hannah.cpp
+	<iostream>
+	"Hannah.h"
+
+1383558590 c:\users\tietokone\documents\aleks\test\hannah.h
+
+1383561970 source:c:\users\tietokone\documents\aleks\test\daughter.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1383562277 c:\users\tietokone\documents\aleks\test\daughter.h
+
+1383561760 c:\users\tietokone\documents\aleks\test\mother.h
+
+1383570233 source:c:\users\tietokone\documents\aleks\test\mother.cpp
+	<iostream>
+	"Mother.h"
+
